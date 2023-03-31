@@ -14,4 +14,4 @@ All of the files needed for this analysis are included in the repo.
 2. Run all of the imports (you may have to un-comment the package installs to access some of the imports)
 3. Run all of the lines (button up top) and our plots should pop up!
 
-### Note: to view any of the plots, you need to download the ipynb notebook. GitHub does not like widgets/interact functions. You can also view pictures of our plots in the [Pictures](pictures) folder!
+### Note: to view any of the plots, you need to download the ipynb notebook. GitHub does not like widgets/interact functions. You can also view pictures of our plots in the Pictures of Plots folder!
