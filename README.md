@@ -10,6 +10,8 @@ This repo will take a look at the migration paths of three birds named Eric, Nic
 
 All of the files needed for this analysis are included in the repo. 
 
-1. Download the interative [Bird Migration](birdmigration.ipynb) and [CSV File](bird_tracking.csv)
+1. Download the interative [Bird Migration](DATA200BirdProjectFinal.ipynb) and [CSV File](bird_tracking.csv)
 2. Run all of the imports (you may have to un-comment the package installs to access some of the imports)
 3. Run all of the lines (button up top) and our plots should pop up!
+
+### Note: to view any of the plots, you need to download the ipynb notebook. GitHub does not like widgets/interact functions.
